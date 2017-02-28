@@ -20,8 +20,6 @@ public class ImageCopy { //สร้างภาพใหม่จากภา�
             System.err.println("Cannot write file");
             return;
         }
-        
-        
-    
     }
 }
+
